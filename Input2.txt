@@ -1,0 +1,7 @@
+﻿COOC CACIC COCOC CIIC CEAC
+
+ltr 0 2 XOOX
+ltr 0 0 XOOX
+ltr 0 4 XOOX
+ttb 0 0 XOXOX
+ttb 3 0 XOXOX
